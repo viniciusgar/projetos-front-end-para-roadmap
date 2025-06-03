@@ -1,0 +1,7 @@
+echo "# projetos-front-end-para-roadmap" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/viniciusgar/projetos-front-end-para-roadmap.git
+git push -u origin main
