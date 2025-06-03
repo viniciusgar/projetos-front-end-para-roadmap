@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+
+<body>
+<h1> Seu Nome
+</h1>
+
+<h2>Programador junior
+</h2>
+
+<p>123 rua joao <br>
+sp, brasil</p>
+
+
+<h2>Habilidades</h2>
+<p>Html, css, javascript, flexivel,
+    Figma, Responsive web desin, 
+    escrita tecnica
+</p>
+
+<h2>Educação</h2>
+<p>Ensino medio completo 
+    Informatica 
+    Desenvolvimento de sistemas 
+
+</p> 
+
+<h2>Experiencia</h2>
+<p>Freelancer home office <br>
+    microsoft, Aple
+</p> 
+
+<h2> Redes sociais</h2>
+<p>
+WhatsApp, facebook, linkedIn</p>
+
+</body>
+
+</html>
